@@ -1,0 +1,9 @@
+{
+  "appId": "com.devabu.tanksurvivors",
+  "appName": "Tank Survivors",
+  "webDir": "www",
+  "backgroundColor": "#10151c",
+  "android": {
+    "allowMixedContent": false
+  }
+}
